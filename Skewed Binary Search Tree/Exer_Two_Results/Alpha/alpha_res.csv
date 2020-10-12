@@ -1,0 +1,136 @@
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:53:26+0100
+SortedArray alpha = 0.1,  524288,    171052820.0,  718635.96,          2
+SearchTree alpha = 0.1,   524288,    135459050.0, 1455385.54,          2
+OtherArray alpha = 0.1,   524288,     65755367.5,  211299.83,          4
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:53:37+0100
+SortedArray alpha = 0.15, 524288,    132276685.0,  822011.55,          2
+SearchTree alpha = 0.15,  524288,     94708812.5,  726562.04,          4
+OtherArray alpha = 0.15,  524288,     54931186.3,  100101.95,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:53:53+0100
+SortedArray alpha = 0.2,  524288,    112276685.0,  249075.00,          4
+SearchTree alpha = 0.2,   524288,     78995177.5,  486864.51,          4
+OtherArray alpha = 0.2,   524288,     49538587.5,  222806.58,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:54:12+0100
+SortedArray alpha = 0.25, 524288,    100602752.5,  135728.61,          4
+SearchTree alpha = 0.25,  524288,     67646515.0,  313903.72,          4
+OtherArray alpha = 0.25,  524288,     47610525.0,  220781.99,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:54:30+0100
+SortedArray alpha = 0.3,  524288,     94124002.5,  173370.13,          4
+SearchTree alpha = 0.3,   524288,     64701007.5,  601186.44,          4
+OtherArray alpha = 0.3,   524288,     47675761.3,  184536.47,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:54:47+0100
+SortedArray alpha = 0.3,  524288,     93921837.5,   64003.95,          4
+SearchTree alpha = 0.3,   524288,     63111582.5,  225264.52,          4
+OtherArray alpha = 0.3,   524288,     47461817.5,  147728.20,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:55:04+0100
+SortedArray alpha = 0.4,  524288,     88815937.5,  239946.81,          4
+SearchTree alpha = 0.4,   524288,     54694351.3,  251030.47,          8
+OtherArray alpha = 0.4,   524288,     47335972.5,  119055.83,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:55:24+0100
+SortedArray alpha = 0.45, 524288,     88343462.5,  164975.30,          4
+SearchTree alpha = 0.45,  524288,     52909020.0,  215545.71,          8
+OtherArray alpha = 0.45,  524288,     48000017.5,  218596.19,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:55:44+0100
+SortedArray alpha = 0.5,  524288,     98766245.0,  157840.72,          4
+SearchTree alpha = 0.5,   524288,     53119236.3,  493042.51,          8
+OtherArray alpha = 0.5,   524288,     53508326.3,  212449.03,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:56:06+0100
+SortedArray alpha = 0.55, 524288,     89611717.5,  230563.49,          4
+SearchTree alpha = 0.55,  524288,     52780601.3,  252287.47,          8
+OtherArray alpha = 0.55,  524288,     47237055.0,  144044.01,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:56:26+0100
+SortedArray alpha = 0.6,  524288,     88856855.0,  151849.03,          4
+SearchTree alpha = 0.6,   524288,     51521625.0,  177861.33,          8
+OtherArray alpha = 0.6,   524288,     46223088.7,  147026.47,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:56:45+0100
+SortedArray alpha = 0.65, 524288,     89690392.5,  157052.62,          4
+SearchTree alpha = 0.65,  524288,     50989047.5,  268078.63,          8
+OtherArray alpha = 0.65,  524288,     45980810.0,  349272.60,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:57:05+0100
+SortedArray alpha = 0.7,  524288,     92778852.5,  289926.64,          4
+SearchTree alpha = 0.7,   524288,     50665116.3,  310750.58,          8
+OtherArray alpha = 0.7,   524288,     48172890.0,  245570.29,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:57:25+0100
+SortedArray alpha = 0.75, 524288,     98744232.6,  305782.58,          4
+SearchTree alpha = 0.75,  524288,     49098887.5,  194953.99,          8
+OtherArray alpha = 0.75,  524288,     47564888.7,  121680.17,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:57:45+0100
+SortedArray alpha = 0.8,  524288,    108194202.5,  229839.17,          4
+SearchTree alpha = 0.8,   524288,     49230796.3,  185402.90,          8
+OtherArray alpha = 0.8,   524288,     48818163.7,  335776.90,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:58:06+0100
+SortedArray alpha = 0.85, 524288,    125332760.0,  711538.46,          2
+SearchTree alpha = 0.85,  524288,     53288477.5,  332254.11,          8
+OtherArray alpha = 0.85,  524288,     60104442.5, 15055511.27,          8
+
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 1.8.0_181
+# CPU:  Intel64 Family 6 Model 142 Stepping 10, GenuineIntel; 8 "cores"
+# Date: 2019-12-15T19:58:25+0100
+SortedArray alpha = 0.9,  524288,    166283660.1, 1672328.33,          2
+SearchTree alpha = 0.9,   524288,     75471785.0, 7601981.72,          4
+OtherArray alpha = 0.9,   524288,     62196377.5, 1019404.96,          4
+
